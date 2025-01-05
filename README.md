@@ -4,7 +4,7 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 
 <p align="center">Table of contents</p>
 
-[MongoDB-0001.Ubuntu 24 && MongoDB 8 Troubleshooting(Install)](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0001.Without%20binlog%20and%20backup%2C%20how%20to%20recover%20the%20mistakenly%20deleted%20database.md)<br>
+[MongoDB-0001.Ubuntu 24 && MongoDB 8 Troubleshooting(Install)](https://github.com/Jerry-Freelancer/awesome-MongoDB/blob/main/MongoDB-0001.Ubuntu%2024%20%26%26%20MongoDB%208%20Troubleshooting(Install).md)<br>
 
 
 
