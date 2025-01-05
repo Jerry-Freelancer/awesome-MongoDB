@@ -1,4 +1,4 @@
-# <p align="center">awesome-MongoDB</p>
+# <p align="center">Awesome MongoDB</p>
 Share some best practices of MongoDB from time to time, I hope this writing is useful to you.<br>
 If you have any questions, please contact me through shurp12138@gmail.com.
 
